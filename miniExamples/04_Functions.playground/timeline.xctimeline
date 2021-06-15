@@ -3,7 +3,12 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/fisherds/Documents/Rose/CSSE484_iOS/Github/SwiftPlaygrounds/follow%20alongs/Functions.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=333&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=0&amp;StartingLineNumber=37&amp;Timestamp=541607021.233188"
+         documentLocation = "file:///Users/theod/Documents/GitHub/SwiftPlaygrounds/miniExamples/04_Functions.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=1160&amp;EndingColumnNumber=0&amp;EndingLineNumber=58&amp;StartingColumnNumber=0&amp;StartingLineNumber=58&amp;Timestamp=645480389.277248"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/theod/Documents/GitHub/SwiftPlaygrounds/miniExamples/04_Functions.playground#CharacterRangeLen=31&amp;CharacterRangeLoc=830&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=26&amp;StartingLineNumber=36&amp;Timestamp=645480389.2773629"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
